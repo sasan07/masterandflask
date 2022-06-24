@@ -1,0 +1,2 @@
+major='feature'
+minor='master'
