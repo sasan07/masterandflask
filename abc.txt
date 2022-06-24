@@ -3,3 +3,4 @@ checking another commandchecking status -s command
 trying one more line
 
 Now testing the branching
+This branch has been fixed by saran on branch feature1
